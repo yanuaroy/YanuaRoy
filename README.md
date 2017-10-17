@@ -1,0 +1,2 @@
+# YanuaRoy
+Bot kick
